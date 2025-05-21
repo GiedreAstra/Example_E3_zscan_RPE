@@ -1,0 +1,12 @@
+[Scan Fitting Parameters]
+Saturation = 55000
+Threshold = 100
+Fitting Type = 0
+Left Center, nm = 659.978547
+Right Center, nm = 659.996867
+Width, pm = 4.412248
+Laser Wavelength, nm = 659.987707
+
+[Scan Pattern]
+X Center, px = 751
+Y Center, px = 1110
